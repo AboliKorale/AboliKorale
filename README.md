@@ -17,4 +17,4 @@
 - **Learning:** React, Data Structures
 
 
-⚡ *Always open to collaborations & learning new things!* 🚀
+⚡ *Always open for learning new things!* 🚀
